@@ -52,3 +52,5 @@ get '/:name/:name2/polish' do
     @name2 = params[:name2]
     erb :polish
 end
+
+<br></br>
